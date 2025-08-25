@@ -1,4 +1,3 @@
-
 ![Banner Rodrigo Zacarias](https://raw.githubusercontent.com/domzack/domzack/main/banner-ia.jpg)
 
 # Rodrigo Daniel Zacarias
@@ -20,8 +19,8 @@ Profissional com mais de 15 anos de experiência em desenvolvimento de soluçõe
 ## Competências Técnicas
 
 - **Linguagens de Programação**: Python, Node.js, JavaScript, HTML, C, C++  
-- **Frameworks & APIs**: FastAPI, REST APIs, WhatsApp API, Agno Framework, Vue.js, Vuex, Vue Router  
-- **Visão Computacional**: OpenCV, OpenALPR, Tesseract OCR, YOLO  
+- **Frameworks & APIs**: FastAPI, REST APIs, WhatsApp API, Agno Framework, OpenAI, Grok, Vue.js, Vuex, Vue Router  
+- **Visão Computacional**: OpenCV, OpenALPR, Tesseract OCR, YOLO, MTCNN, DeepFace  
 - **Hardware & IoT**: Arduino, sensores, câmeras IP, semáforos, cancelas eletrônicas  
 - **Integrações**: ERP Senior, sistemas de pesagem, controle de acesso, painéis eletrônicos  
 - **DevOps & Suporte**: Linux, SSH, GitHub, Docker, CAD  
@@ -32,35 +31,45 @@ Profissional com mais de 15 anos de experiência em desenvolvimento de soluçõe
 
 ## Projetos Relevantes
 
-- **[Automação de Controle de Acesso Veicular – Olfar S/A](https://github.com/domzack/kiosk_printer_kp-803)** (2009 - Presente)  
-  Desenvolvimento de sistema completo para leitura de placas, pesagem rodoviária, controle semafórico e integração com ERP Senior. Inclui controle de impressoras térmicas (modelo KP-803) para totens e aplicações de autoatendimento, com impressão de texto, códigos de barras e monitoramento de status em tempo real.  
-  **Tecnologias**: Python, Node.js, OpenCV, C, CAD, pyserial, sensores, câmeras IP.  
-  **Impacto**: Redução de fraudes, aumento de eficiência logística e integração total com sistemas corporativos.  
+- **Automação de Controle de Acesso Veicular e Rotas – Olfar S/A** (2009 - Presente)  
+  Desenvolvi e implementei uma solução completa de automação para controle de acesso de veículos e gerenciamento de rotas na Olfar S/A, integrando hardware personalizado, sistemas inteligentes e software corporativo. Inclui fabricação de máquinas sob medida, desenvolvimento de plantas e circuitos eletroeletrônicos, integração com ERP Senior, leitura automática de placas (ALPR) com IA, pesagem rodoviária automatizada, controle semafórico inteligente e integração com sensores e câmeras antifraude.  
+  **Tecnologias**: CAD, C, Node.js, Python, OpenCV, OpenALPR, Linux, SSH, GitHub.  
+  **Impacto**: Redução significativa de falhas operacionais e fraudes, aumento da eficiência logística e controle de tráfego interno, integração fluida com sistemas corporativos para tomada de decisão em tempo real.  
 
-- **[Agentes Inteligentes com IA e WhatsApp](https://github.com/domzack/wpp-pyjs-worker)** (2023 - Presente)  
-  Arquitetura de agentes autônomos com raciocínio distribuído, memória persistente e integração com WhatsApp para suporte técnico e análise de dados.  
-  **Tecnologias**: Python, FastAPI, OpenAI, Grok, Agno Framework.  
-  **Impacto**: Atendimento automatizado 24/7, geração de insights em tempo real e escalabilidade.  
+- **OCR ALPR – Reconhecimento Automático de Placas com Integração Empresarial** (2020 - Presente)  
+  Desenvolvi uma solução robusta e escalável de reconhecimento automático de placas (ALPR) para otimizar o controle de acesso em ambientes rodoviários, industriais e áreas restritas. Utiliza Python, Node.js, OpenCV, Tesseract OCR e câmeras IP para processamento de imagens em tempo real com alta precisão. Integra-se a cancelas eletrônicas, semáforos, painéis de LED e sensores de pista, com backend em Node.js para entrega de dados via navegador e servidor Linux para estabilidade e monitoramento remoto. Integração com ERP Senior para gestão logística e rastreabilidade.  
+  **Tecnologias**: Python, Node.js, OpenCV, Tesseract OCR, Linux, câmeras IP.  
+  **Impacto**: Aceleração de processos logísticos, redução de custos operacionais, aumento da segurança em áreas de tráfego controlado, sinergia com sistemas corporativos para tomada de decisão em tempo real.  
 
-- **[OCR ALPR – Reconhecimento Automático de Placas](https://github.com/domzack/zeeface)** (2020 - Presente)  
-  Sistema de leitura de placas com alta precisão, integrado a dispositivos físicos e sistemas corporativos. Também inclui reconhecimento facial utilizando OpenCV, MTCNN e DeepFace para detectar rostos, reconhecer identidades e salvar rostos não identificados para análise posterior.  
-  **Tecnologias**: Python, Node.js, Tesseract OCR, OpenCV, MTCNN, DeepFace, Linux.  
-  **Impacto**: Aceleração de processos logísticos, redução de custos operacionais e ampliação da segurança.  
+- **Agentes Inteligentes com Agno, OpenAI, Grok e Integração com WhatsApp** (2023 - Presente)  
+  Desenvolvi uma arquitetura de agentes de inteligência artificial utilizando o framework Agno, combinando modelos avançados da OpenAI e Grok com integração direta ao WhatsApp via APIs customizadas. Os agentes realizam tarefas como análise de dados financeiros, monitoramento de redes sociais, suporte técnico automatizado e geração de relatórios, com raciocínio distribuído e memória persistente. Implantado com FastAPI para monitoramento e escalabilidade.  
+  **Tecnologias**: Python, FastAPI, Agno Framework, OpenAI, Grok, WhatsApp API, YFinance, DuckDuckGo, ReasoningTools.  
+  **Impacto**: Atendimento automatizado via WhatsApp com linguagem natural, redução de carga operacional em tarefas repetitivas, acesso a insights em tempo real, escalabilidade para aplicações empresariais.  
+
+- **[Zeeface](https://github.com/domzack/zeeface)**  
+  Programa de reconhecimento facial que utiliza OpenCV, MTCNN e DeepFace para detectar rostos em imagens, reconhecer identidades com base em um banco de referências e salvar rostos não identificados para análise posterior. Inclui funcionalidades como detecção de faces, reconhecimento facial com modelos como VGG-Face e Facenet, normalização de nomes de imagens e extração de faces.  
+  **Tecnologias**: Python, OpenCV, MTCNN, DeepFace.  
+  **Impacto**: Facilitação de aplicações de segurança e automação, com armazenamento de rostos não identificados para análise posterior e processamento de imagens em diretórios estruturados.  
+
+- **[Kiosk Printer KP-803](https://github.com/domzack/kiosk_printer_kp-803)**  
+  Implementação de uma classe Python para controle de impressoras térmicas compatíveis com ESC/POS, como o modelo KP-803, permitindo a criação de totens e aplicações de autoatendimento. Inclui funcionalidades para impressão de texto, códigos de barras, configuração de papel, monitoramento de status em tempo real, retração e corte de papel.  
+  **Tecnologias**: Python, pyserial.  
+  **Impacto**: Facilitação da integração de impressoras em sistemas de autoatendimento, como totens, com suporte a conexões seriais ou via IP, e monitoramento de erros para maior confiabilidade.  
+
+- **[DIO Assistente Virtual](https://github.com/domzack/dio-assistente-virtual)**  
+  Sistema de assistência virtual desenvolvido em Python com Processamento de Linguagem Natural (PLN), reconhecimento de fala e síntese de voz, servindo como modelo para aplicações usando IA. Inclui comandos para abrir pesquisas no Wikipedia, YouTube, localizar farmácias próximas via Google Maps e encerrar o assistente.  
+  **Tecnologias**: Python, SpeechRecognition, pyttsx3, pyaudio.  
+  **Impacto**: Base para desenvolvimento de assistentes virtuais inteligentes, com suporte a interações por voz e automação de tarefas cotidianas.  
 
 - **[Nanotronic](https://github.com/domzack/nanotronic)**  
   Projeto em JavaScript focado em [descrição breve, ex.: soluções web ou automação].  
   **Tecnologias**: JavaScript.  
   **Impacto**: [Adicione uma breve descrição do impacto, se disponível].  
 
-- **Aplicações para Mercado Financeiro com Data Feed DLL da Nelogica**  [private repo]
+- **Aplicações para Mercado Financeiro com Data Feed DLL da Nelogica**  
   Desenvolvimento de aplicações para o mercado financeiro utilizando a solução Data Feed DLL da Nelogica para obter dados históricos e em tempo real. Foco em criação de indicadores, sinais e automações com inteligência artificial. A DLL Real Time da Nelogica permite conexão aos serviços de Market Data, fornecendo informações em tempo real e histórico tick by tick (até 90 dias) para ativos da B3, facilitando análises financeiras, desenvolvimento de algoritmos e integrações externas.  
   **Tecnologias**: Python, Node.js, DLL Real Time da Nelogica, TensorFlow, Keras.  
   **Impacto**: Melhoria na assertividade e performance das análises de portfólios, geração de insights em tempo real e automação de estratégias de trading.  
-
-- **[DIO Assistente Virtual](https://github.com/domzack/dio-assistente-virtual)**  
-  Sistema de assistência virtual desenvolvido em Python com Processamento de Linguagem Natural (PLN), reconhecimento de fala e síntese de voz, servindo como modelo para aplicações usando IA. Inclui comandos para abrir pesquisas no Wikipedia, YouTube, localizar farmácias próximas via Google Maps e encerrar o assistente.  
-  **Tecnologias**: Python, SpeechRecognition, pyttsx3, pyaudio.  
-  **Impacto**: Base para desenvolvimento de assistentes virtuais inteligentes, com suporte a interações por voz e automação de tarefas cotidianas.  
 
 ## Formação Acadêmica
 
