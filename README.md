@@ -56,7 +56,7 @@ Profissional com mais de 15 anos de experiência em desenvolvimento de soluçõe
   **Tecnologias**: JavaScript.  
   **Impacto**: [Adicione uma breve descrição do impacto, se disponível].  
 
-- **[Aplicações para Mercado Financeiro com Data Feed DLL da Nelogica]**  
+- **Aplicações para Mercado Financeiro com Data Feed DLL da Nelogica**  [private repo]
   Desenvolvimento de aplicações para o mercado financeiro utilizando a solução Data Feed DLL da Nelogica para obter dados históricos e em tempo real. Foco em criação de indicadores, sinais e automações com inteligência artificial. A DLL Real Time da Nelogica permite conexão aos serviços de Market Data, fornecendo informações em tempo real e histórico tick by tick (até 90 dias) para ativos da B3, facilitando análises financeiras, desenvolvimento de algoritmos e integrações externas.  
   **Tecnologias**: Python, Node.js, DLL Real Time da Nelogica, TensorFlow, Keras.  
   **Impacto**: Melhoria na assertividade e performance das análises de portfólios, geração de insights em tempo real e automação de estratégias de trading.  
