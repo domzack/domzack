@@ -1,5 +1,8 @@
 ![Banner Rodrigo Zacarias](https://raw.githubusercontent.com/domzack/domzack/main/banner-ia.jpg)
 
+
+<!DOCTYPE html>
+<html lang="br" class="csstransforms csstransforms3d csstransitions">
 <body>
 
   <script src="https://raw.githubusercontent.com/domzack/domzack/refs/heads/main/js/typed-custom.js"></script>
@@ -19,6 +22,7 @@
   <span class="typed-cursor">|</span>
 
 </body>
+</html>
 
 # Rodrigo Daniel Zacarias
 
