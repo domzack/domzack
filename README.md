@@ -62,7 +62,7 @@ Profissional com mais de 15 anos de experiência em desenvolvimento de soluçõe
   **Impacto**: Base para desenvolvimento de assistentes virtuais inteligentes, com suporte a interações por voz e automação de tarefas cotidianas.  
 
 - **[Nanotronic](https://github.com/domzack/nanotronic)**  
-  Projeto desenvolvida por mim para OLFAR S/A para integrar com soluções Trizzy e Senbior.  
+  Projeto desenvolvida por mim para OLFAR S/A para integrar com soluções Trizzy e Senior.  
   **Tecnologias**: JavaScript, C+, Nodejs.  
 
 - **Aplicações para Mercado Financeiro com Data Feed DLL da Nelogica**  
