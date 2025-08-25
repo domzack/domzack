@@ -62,9 +62,8 @@ Profissional com mais de 15 anos de experiência em desenvolvimento de soluçõe
   **Impacto**: Base para desenvolvimento de assistentes virtuais inteligentes, com suporte a interações por voz e automação de tarefas cotidianas.  
 
 - **[Nanotronic](https://github.com/domzack/nanotronic)**  
-  Projeto em JavaScript focado em [descrição breve, ex.: soluções web ou automação].  
-  **Tecnologias**: JavaScript.  
-  **Impacto**: [Adicione uma breve descrição do impacto, se disponível].  
+  Projeto desenvolvida por mim para OLFAR S/A para integrar com soluções Trizzy e Senbior.  
+  **Tecnologias**: JavaScript, C+, Nodejs.  
 
 - **Aplicações para Mercado Financeiro com Data Feed DLL da Nelogica**  
   Desenvolvimento de aplicações para o mercado financeiro utilizando a solução Data Feed DLL da Nelogica para obter dados históricos e em tempo real. Foco em criação de indicadores, sinais e automações com inteligência artificial. A DLL Real Time da Nelogica permite conexão aos serviços de Market Data, fornecendo informações em tempo real e histórico tick by tick (até 90 dias) para ativos da B3, facilitando análises financeiras, desenvolvimento de algoritmos e integrações externas.  
