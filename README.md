@@ -1,10 +1,6 @@
 
 ![Banner Rodrigo Zacarias](https://raw.githubusercontent.com/domzack/domzack/main/banner-ia.jpg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/domzack/domzack/main/banner-ia.jpg" alt="Banner Rodrigo Zacarias" width="600">
-</p>
-
 # Rodrigo Daniel Zacarias
 
 **Desenvolvedor Back-End | Especialista em Automação e Integração de Sistemas**  
