@@ -24,6 +24,21 @@
 </body>
 </html>
 
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.1; }
+  100% { opacity: 1; }
+}
+.blink {
+  animation: blink 1s infinite;
+  color: #009688;
+  font-weight: bold;
+}
+</style>
+
+<span class="blink">Texto animado piscando!</span>
+
 # Rodrigo Daniel Zacarias
 
 **Desenvolvedor Back-End | Especialista em Automação e Integração de Sistemas**  
