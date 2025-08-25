@@ -3,6 +3,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/domzack/domzack/main/banner-ia.jpg" alt="Banner Rodrigo Zacarias">
+
+  <script src="https://raw.githubusercontent.com/domzack/domzack/refs/heads/main/js/typed-custom.js"></script>
+  <script src="https://raw.githubusercontent.com/domzack/domzack/refs/heads/main/js/typed.js"></script>
+
   <div class="typed-strings" style="display: none; background-size: cover;">
                                                 <p>ser um Agente de IA</p>
                                                 <p>identificar e ler placas de veiculos</p>
