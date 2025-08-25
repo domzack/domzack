@@ -8,16 +8,16 @@
   <img src="https://raw.githubusercontent.com/domzack/domzack/main/banner-ia.jpg" alt="Banner Rodrigo Zacarias">
 
   <div class="typed-strings" style="display: none; background-size: cover;">
-        <p>ser um Agente de IA</p>
-        <p>identificar e ler placas de veiculos</p>
-        <p>reconhecer faces por cameras ip</p>
-        <p>automatizar processos industriais</p>
-        <p>integrar meu codigo em suas APIs</p>
-    </div>
+    <p>ser um Agente de IA</p>
+    <p>identificar e ler placas de veiculos</p>
+    <p>reconhecer faces por cameras ip</p>
+    <p>automatizar processos industriais</p>
+    <p>integrar meu codigo em suas APIs</p>
+  </div>
 
-    <div class="typed" style="background-size: cover;">Fu</div>
-    <span class="typed-cursor">|</span>
-    
+  <div class="typed" style="background-size: cover;">Fu</div>
+  <span class="typed-cursor">|</span>
+
 </body>
 
 # Rodrigo Daniel Zacarias
